@@ -12,7 +12,7 @@ I don't have the type of SQL experience or knowledge to be an actual SQL Develop
 <h2>👨‍💻 Post-Layoff Projects for Professional Development:</h2>
 
 - <b>Python</b>
-  - [French noun gender flashcard program](https://github.com/MJEisenmann/French-Gendered-Nouns-Flashcards)
+  - [French noun gender flashcard program](https://github.com/mjeisenmann/French-Gendered-Nouns-Flashcards)
   - TBD
 
 
