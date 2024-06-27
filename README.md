@@ -1,10 +1,10 @@
 <h1 id=top>Hi, I'm Melissa!</h1> 
 
-<h2><a href="https://www.linkedin.com/in/meisenmann/">Email campaign developer</a> with a wide variety of experiences and skills, who likes solving problems and finding answers.</h2>
+<h2><a href="https://www.linkedin.com/in/meisenmann/">Marketing campaign developer (email and direct mail)</a> with a wide variety of experiences and skills, who likes solving problems and finding answers.</h2>
 
 <h2>Background:</h2>
 
-I worked 13 1/2 years in email campaign development until I was laid off in March 2024 as part of a restructuring of the Sales and Marketing teams. I have been involved with many parts of the email campaign process. See the bottom of this page for the very long [list](#MyJobs).
+I worked 13 1/2 years in marketing campaign development (both email and direct mail) until I was laid off in March 2024 as part of a restructuring of the Sales and Marketing teams. I have been involved with many parts of the email campaign process. See the bottom of this page for the very long [list](#MyJobs).
 
 After some soul-searching, I realized how much I miss writing and running SQL code. Though it started as at least half of my previous job, there was less and less as I moved to different accounts. If my next job could include more SQL, that would make me very happy. That could be in another email campaign developer job or a data analyst job. 
 <br/><br/>
