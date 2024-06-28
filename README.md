@@ -99,8 +99,6 @@ The TL;DR version is: [audience selection](#select), [receiving audience data fi
  - I performed QA on team members' code, flowcharts, and scheduled deployments. I performed QA for the developers on their HTML.
  - I performed regression testing for a client's instance in SAP Hybris and built a shared testing log for our team to record our findings across two rounds.
  - I participated in updating 200+ HTML links and removing part of the AMPScript in triggered emails that were impacted by a client changing encryption methods. 
- - I p
-
 
 [Back to top of section](#MyJobs)
 
