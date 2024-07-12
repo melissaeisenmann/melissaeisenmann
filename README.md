@@ -6,14 +6,14 @@
 
 I worked 13 1/2 years in marketing campaign development (both email and direct mail) until I was laid off in March 2024 as part of a restructuring of the Sales and Marketing teams. I have been involved with many parts of the email campaign process. See the bottom of this page for the very long [list](#MyJobs).
 
-After some soul-searching, I realized how much I miss writing and running SQL code. Though it started as at least half of my previous job, there was less and less as I moved to different accounts. If my next job could include more SQL, that would make me very happy. That could be in another email campaign developer job or a data analyst job. 
+After some soul-searching, I realized how much I miss writing and running SQL code. Though it started as at least half of my previous job, there was less and less as I moved to different accounts. If my next job could include more SQL, that would make me very happy. That could be as a <b>campaign developer/marketing specialist</b> type of role again or a <b>data analyst</b>. 
 <br/><br/>
 In the meantime, while I look for a new job, I'm going to work on learning the technologies that show up often in data analyst job requirements, but that I don't know yet. I will also work to further my SQL knowledge, because there is always more to learn. Git and GitHub will allow me to share the projects I work on.
 
 <h2>🚧 Post-Layoff Projects for Professional Development:</h2>
 
 - <b>Python</b>
-  - French noun gender flashcard program - GitHub repo link coming soon
+  - <a href="https://github.com/melissaeisenmann/French-Gendered-Nouns-Flashcards">French noun gender flashcard program</a>
   - TBD
 
 
@@ -36,6 +36,7 @@ In the meantime, while I look for a new job, I'm going to work on learning the t
 
 - <b>SQL</b>: I learned PL/SQL first and then SQL Server. The latter is what I've used more in the past few years. I have minimal experience with Redshift. My experience with all of them has primarily been in writing and running queries, importing and exporting data, etc.
 - <b>Microsoft Office</b>: Excel is my favorite product in the Office Suite but I've used the rest of them including PowerPoint, SharePoint, SharePoint Designer, and Access.
+- <b>Visual Studio Code</b>: I have come to greatly appreciate VS Code as an application. It's so multifunctional with its range of available extensions. Is there a particular way you like to view and/or preview different programming languages? There's probably an extension or two that will make that happen.
 - <b>HTML</b>: My comfort level with CSS could use some bolstering but I've spent a lot of time with HTML over the past few years while working on emails.
 
 
@@ -104,7 +105,7 @@ The TL;DR version is: [audience selection](#select), [receiving audience data fi
 
 [Back to top of page](#top)
 <!--
-**MJEisenmann/MJEisenmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**melissaeisenmann/melissaeisenmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
