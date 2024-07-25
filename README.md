@@ -6,9 +6,9 @@
 
 I worked 13 1/2 years in marketing campaign development (both email and direct mail) until I was laid off in March 2024 as part of a restructuring of the Sales and Marketing teams. I have been involved with many parts of the email campaign process. See the bottom of this page for the very long [list](#MyJobs).
 
-After some soul-searching, I realized how much I miss writing and running SQL code. Though it started as at least half of my previous job, there was less and less as I moved to different accounts. If my next job could include more SQL, that would make me very happy. That could be as a <b>campaign developer/marketing specialist</b> type of role again or a <b>data analyst</b>. 
+After some soul-searching, I realized how much I miss writing and running SQL code. Though it started as at least half of my previous job, there was less and less as I moved to different accounts. If my next job could include more SQL, that would make me very happy. At the same time, I do really enjoy the process of building a campaign in a CRM platform, reviewing the HTML, assigning the audience, and even scheduling an email to deploy. As such, I'd be happy in either as a <b>campaign developer/marketing specialist</b> again or a <b>data analyst</b>. 
 <br/><br/>
-In the meantime, while I look for a new job, I'm going to work on learning the technologies that show up often in data analyst job requirements, but that I don't know yet. I will also work to further my SQL knowledge, because there is always more to learn. Git and GitHub will allow me to share the projects I work on.
+In the meantime, while I look for a new job, I'm going to work on learning the technologies that show up often in the requirements for these jobs, but that I don't know yet. I will also work to further my SQL knowledge, because there is always more to learn. Git and GitHub will allow me to share the projects I work on.
 
 <h2>🚧 Post-Layoff Projects for Professional Development:</h2>
 
