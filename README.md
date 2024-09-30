@@ -23,7 +23,7 @@ In the meantime, while I look for a new job, I'm going to work on learning the t
 - <b>Power BI</b>: I've only set up extracts to go to a Power BI set-up
 - <b>R</b>: I have no experience yet with this.
 - <b>SAS</b>: I've had a little exposure to this and still have my notes from 3-4 training sessions in 2014, but I have not had the opportunity to try again until now.
-- <b>Markdown</b>: I already know traditional HTML but Markdown is just different enough to be slightly frustrating. However, creating ReadMe files for GitHub will definitely help me.
+- <b>Markdown</b>: I already know traditional HTML but Markdown is just different enough to be slightly disconcerting.
 
 
 <h2> 🌱 Programs & Technology I Have Recently Begun to Learn: </h2>
@@ -37,7 +37,7 @@ In the meantime, while I look for a new job, I'm going to work on learning the t
 - <b>SQL</b>: I learned PL/SQL first and then SQL Server. The latter is what I've used more in the past few years. I have minimal experience with Redshift. My experience with all of them has primarily been in writing and running queries, importing and exporting data, etc.
 - <b>Microsoft Office</b>: Excel is my favorite product in the Office Suite but I've used the rest of them including PowerPoint, SharePoint, SharePoint Designer, and Access.
 - <b>Visual Studio Code</b>: I have come to greatly appreciate VS Code as an application. It's so multifunctional with its range of available extensions. Is there a particular way you like to view and/or preview different programming languages? There's probably an extension or two that will make that happen.
-- <b>HTML</b>: My comfort level with CSS could use some bolstering but I've spent a lot of time with HTML over the past few years while working on emails.
+- <b>HTML/CSS</b>: I taught myself HTML back in college. About five years ago, I was added to a team that worked with the HTML/CSS in emails, so I was able to pull out the base HTML knowledge, increase it, and learn CSS.
 
 
 <h2> ⚡ More Random Things About Me:</h2>
@@ -46,7 +46,7 @@ In the meantime, while I look for a new job, I'm going to work on learning the t
 - 🌻 I am a proud graduate of Randolph-Macon Woman's College and I am an Even. (This will make sense to other R-MWC/RC students and alumni.)
 - 🐱 My cat is named Cleo. She is an 18-year-old, long-haired Calico fluff ball with an attitude. (She is a cat after all.) She is usually my profile pic across social media.
 - 🧶 I love to knit, cross-stitch, and quilt. I alternate between them, often based on the weather. Sometimes it is too hot to knit.
-- 👽 I am a PC gamer. Though I normally prefer simulator games (The Sims, Cities: Skylines, etc.) as they don't activate my motion sickness, I have a deep love for Alien: Isolation. I have played through it 9 times as of June 17, 2024 across all difficulty levels. I've gotten 100% of the achievements. I've even been doing some very casual speedrunning of it lately. I'm more focused on improving my own times as opposed to the actually-running-through-most-of-the-game official speedrunning styles. More power to those people but that's too much camera movement for me.
+- 👽 I am a PC gamer. Though I normally prefer simulator games (The Sims, Cities: Skylines, etc.), I have a deep love for Alien: Isolation. I have played through it 9 times as of June 17, 2024 across all difficulty levels. I've gotten 100% of the achievements. I've even been doing some very casual speedrunning of it lately. My favorite category is 100%. On each playthrough, I have to access every mission & Nostromo log, pick up every ID tag, and pick up all blueprints and upgrades.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/meisenmann/">https://www.linkedin.com/in/meisenmann/</a> 
 
 <h2 id="MyJobs"> 📧 What Did I Do as a Campaign Developer? </h2>
